@@ -1,0 +1,22 @@
+let Employees = [{"name":"Joannes","gender":"F","email":"jverrico0@last.fm","salary":"Dong"},
+{"name":"Lucienne","gender":"F","email":"lskunes1@t.co","salary":"Rupiah"},
+{"name":"Taylor","gender":"M","email":"tmaskew2@skyrock.com","salary":"Peso"},
+{"name":"Griffie","gender":"M","email":"gplak3@youtu.be","salary":"Peso"},
+{"name":"Marta","gender":"F","email":"mtollfree4@sun.com","salary":"Real"},
+{"name":"Care","gender":"M","email":"cuttermare5@lulu.com","salary":"Euro"},
+{"name":"Ham","gender":"M","email":"hhunday6@360.cn","salary":"Rupiah"},
+{"name":"Rowan","gender":"M","email":"rfrancecione7@cbc.ca","salary":"Ngultrum"},
+{"name":"Stanfield","gender":"M","email":"ssanper8@tmall.com","salary":"Euro"},
+{"name":"Dwayne","gender":"M","email":"dtemporal9@mail.ru","salary":"Kuna"},
+{"name":"Broddie","gender":"M","email":"bdanilewicza@mashable.com","salary":"Euro"},
+{"name":"Mireielle","gender":"F","email":"mvonsalzbergb@ucoz.ru","salary":"Yuan Renminbi"},
+{"name":"Chloette","gender":"F","email":"ccastellinoc@google.it","salary":"Euro"},
+{"name":"Adamo","gender":"M","email":"abrowsed@mozilla.org","salary":"Rupiah"},
+{"name":"Heloise","gender":"F","email":"hmattise@hubpages.com","salary":"Dollar"},
+{"name":"Loren","gender":"M","email":"lbardillf@tmall.com","salary":"Rupiah"},
+{"name":"Dre","gender":"F","email":"dtrokerg@mozilla.org","salary":"Krona"},
+{"name":"Chane","gender":"M","email":"cworsallsh@ox.ac.uk","salary":"Kuna"},
+{"name":"Stefano","gender":"M","email":"sbatcheldori@desdev.cn","salary":"Tala"},
+{"name":"Alfonso","gender":"M","email":"acamillerij@wordpress.org","salary":"Dollar"}]
+
+export default Employees
