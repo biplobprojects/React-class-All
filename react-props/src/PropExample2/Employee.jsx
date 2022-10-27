@@ -28,7 +28,7 @@ class Employee extends React.Component{
             
             <pre>{JSON.stringify(this.props)}</pre>
             {/* <h3>hello {this.props.name}</h3>
-            <h3>Employee location:{this.prs.location}</h3>
+            <h3>Employee location:{this.props.location}</h3>
             <h3>employee id: {this.props.n}</h3>op
             <h3>Employee salary: {this.props.salary}</h3> */}
 
