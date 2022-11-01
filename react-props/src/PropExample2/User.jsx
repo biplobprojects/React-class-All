@@ -26,8 +26,8 @@ const User = () => {
     <>
       <h1>User COMPONENT</h1>
       <hr />
-      {/* <Employee name={"Honey"} location={"india"} n={eid} salary= {esal}/> */}
-      <Employee array={users} />
+      <Employee name={"Honey"} location={"india"} n={eid} salary={esal} />
+      <Employee array={users}/>
     </>
   );
 };

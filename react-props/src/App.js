@@ -2,8 +2,9 @@ import React from "react";
 // import Prop123 from "./Prop123";
 // import Comp1 from "./PropsExample/Comp1";
 // import User from "./PropExample2/User";
+// import Prac from "./PropsExample/Prac";
 
-
+import Msg1 from "./PRACTICE/Msg1.jsx";
 class App extends React.Component {
   render() {
     return (
@@ -15,8 +16,10 @@ class App extends React.Component {
 
         {/* <Comp1/> */}
 
-        <User/>
-        
+        {/* <User/> */}
+      
+        {/* <Prac/> */}
+        <Msg1/>
       </>
     );
   }

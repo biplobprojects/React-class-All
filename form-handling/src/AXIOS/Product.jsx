@@ -7,18 +7,13 @@ class Product extends Component {
   };
 
   componentDidMount() {
-    Axios.get("https://dummyjson.com/products12").then((res) => {
-      console.log(res);
+    Axios.get("https://dummyjson.com/products").then((res) => {
+    
       this.setState({ products: res.data.products });
     });
 
 
-    try {
-      
-    } catch (error) {
-      console.log("errorrrrrrrrr");
-      
-    }
+   
   }
 
   render() {
