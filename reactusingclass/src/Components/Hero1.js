@@ -9,7 +9,7 @@ class Hero1 extends React.Component{
   name:"Biplob Borboruah",
   age: 28,
   college:"Suresh gyan vihar university",
-  image:"https://m.media-amazon.com/images/M/MV5BMjI3MjIxMjkwM15BMl5BanBnXkFtZTgwNzkyMTU4NzE@._V1_UY1200_CR135,0,630,1200_AL_.jpg"
+  image:"https://m.media-amazon.com/images/M/MV5BMjI3MjIxMjkwM15BMl5BanBnXkFtZTgwNzkyMTU4NzE@._V1_UY1200_CR135,0,630,1200_AL_.jpg"  
 
 
     }

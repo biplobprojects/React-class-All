@@ -1,18 +1,18 @@
 //FUNCTION COMPONENT:
 
-// const Employee=(props)=>{
+const Employee=(props)=>{
 
-//     return(
-//         <>
-//         <h1>EMPLOYEE COMPONENT</h1>
-//   <pre>{JSON.stringify(props)}</pre>
+    return(
+        <>
+        <h1>EMPLOYEE COMPONENT</h1>
+  <pre>{JSON.stringify(props)}</pre>
 
-//   <h3>hello {props.name} you are from {props.location}</h3>
-//         </>
-//     )
-// }
+  <h3>hello {props.name} you are from {props.location}</h3>
+        </>
+    )
+}
 
-// export default Employee;
+export default Employee;
 
 
 //TRANSFER FROM FUNCTION TO CLASS:
